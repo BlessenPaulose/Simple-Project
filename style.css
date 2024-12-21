@@ -1,0 +1,10 @@
+.home{
+    background-color: yellow;
+}
+.home h1{
+    text-align: center;
+}
+.login{
+    width: auto;
+    height: 500px;
+}
